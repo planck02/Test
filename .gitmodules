@@ -1,0 +1,3 @@
+[submodule "Firmware/driver/camera"]
+	path = Firmware/driver/camera
+	url = https://github.com/ajita02/camera.git
